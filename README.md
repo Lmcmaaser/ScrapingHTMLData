@@ -1,5 +1,2 @@
 # ScrapingHTMLData
-# Python3
-# import urllib, BeautifulSoup from file, and SSL
-# ignores SSL certificate errors
-# retrieves desired tags
+Python3- imports urllib, BeautifulSoup from file, and SSL, ignores SSL certificate errors, and retrieves desired tags
